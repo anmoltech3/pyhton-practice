@@ -1,0 +1,1 @@
+print("a\tb\n   'c'\nd \t e")
